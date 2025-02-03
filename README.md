@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/CesarImperas/portfolio-hashtag/blob/main/LICENSE)
 
 ## Sobre o projeto
-O projeto visa o aprendizado e a utilização de conceitos básicos que ecoam nas três principais tecnologias no desenvolvimento Web (sites), no qual, juntas, representam o pílar e a relação do Front-end com o Back-end, dentro de uma aplicação/sistema/site. 
+O projeto visa o aprendizado e a utilização de conceitos básicos que ecoam nas três principais tecnologias no desenvolvimento Web (sites), no qual, juntas, representam o pilar e a relação do Front-end com o Back-end, dentro de uma aplicação/sistema/site. 
 
 Com o apoio do professor Diego da Hashtag Treinamentos, diante das 3 aulas do curso, cada uma abordando uma tecnologia, partindo do esqueleto do site com a linguagem [HTML](https://www.youtube.com/watch?v=iqHvLJKZeBM) (*HyperText Markup Language*), depois com a estilização com o [CSS](https://www.youtube.com/watch?v=cZj1-2PVifg) (*Cascading Style Sheets*), e por fim, a interatividade do usuário com o site utilizando a linguagem [JavaScript](https://www.youtube.com/watch?v=NZeiVjaMEfc).
 
