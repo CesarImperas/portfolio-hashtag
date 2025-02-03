@@ -1,4 +1,5 @@
 # Página de Portfólio - Curso Básico Front-end (2025)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/CesarImperas/portfolio-hashtag/blob/main/LICENSE)
 
 ## Sobre o projeto
 O projeto visa o aprendizado e a utilização de conceitos básicos que ecoam nas três principais tecnologias no desenvolvimento Web (sites), no qual, juntas, representam o pílar e a relação do Front-end com o Back-end, dentro de uma aplicação/sistema/site. 
